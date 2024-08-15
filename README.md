@@ -1,81 +1,17 @@
-# Git Branch and Commit Naming Conventions
+![helios_banner](https://github.com/helios-pipeline/frontend/blob/main/public/images/newlogo.png)
 
-## Branch Naming
+# Helios Overview
 
-1. `feat/`: New features
-   - Example: `feat/user-authentication`
+Helios is an open-source platform designed to simplify the visualization and analysis of real-time event streams by exposing data for SQL querying. Our [automated deployment process](https://github.com/helios-pipeline/deploy) and intuitive interface allow teams to query and gain insights from their existing event streams.
 
-2. `fix/`: Bug fixes
-   - Example: `fix/login-error`
+To learn more about the Helios platform, including instructions on how to get started, visit our [website](https://helios.github.io/) and [Quick Start](#).
 
-3. `chore/`: Maintenance tasks
-   - Example: `chore/update-dependencies`
+# Helios Team
 
-4. `docs/`: Documentation updates
-   - Example: `docs/api-endpoints`
+[Garrett Cochran](#)
 
-5. `refactor/`: Code refactoring
-   - Example: `refactor/database-queries`
+[James Drabinsky](#)
 
-6. `test/`: Adding or modifying tests
-   - Example: `test/user-registration`
+[Tony Liao](#)
 
-## Commit Messages
-
-1. `feat:` New features
-   - Example: `feat: add user registration form`
-
-2. `fix:` Bug fixes
-   - Example: `fix: resolve login button not responding`
-
-3. `chore:` Maintenance tasks
-   - Example: `chore: update npm packages`
-
-4. `docs:` Documentation updates
-   - Example: `docs: update README with setup instructions`
-
-5. `refactor:` Code refactoring
-   - Example: `refactor: optimize database queries`
-
-6. `test:` Adding or modifying tests
-   - Example: `test: add unit tests for user authentication`
-
-7. `style:` Code style changes
-   - Example: `style: format code using prettier`
-
-8. `perf:` Performance improvements
-   - Example: `perf: optimize image loading`
-  
-
-# PR Template:
-## Overview
-[Provide a brief description of what this PR does and why it's needed]
-
-## Changes
-- [List the main changes or additions made in this PR]
-- [Include any important implementation details]
-- [Mention any major refactoring or architectural changes]
-
-## Screenshots
-[If applicable, add screenshots to help explain your changes]
-
-## Notes for Reviewers
-[Add any specific points you want reviewers to pay attention to or explain any decisions you made that might not be obvious from the code]
-
-# Example PR:
-## Overview
-This PR implements functionality to execute ClickHouse queries from the React frontend and display the results, using a new QueryExecutor component and React Query for efficient data fetching and state management.
-
-## Changes
-- Created new `QueryExecutor` component
-- Implemented `useClickHouseQuery` custom hook using React Query
-- Added error handling and loading states for query execution
-- Updated main App component to include new QueryExecutor
-- Added basic styling for query results display
-
-## Screenshots
-[Include screenshots of the new QueryExecutor component in action]
-
-## Notes for Reviewers
-- Pay special attention to error handling in the QueryExecutor component
-- The useClickHouseQuery hook might be reusable for other components in the future
+[Sean Powell](#)
