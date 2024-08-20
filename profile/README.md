@@ -1,10 +1,12 @@
-![helios_banner](https://github.com/helios-pipeline/frontend/blob/main/public/images/newlogo.png)
+![helios_banner](https://github.com/helios-platform/helios-platform.github.io/blob/1e14b22c3ebeafbbdbd2bd1f1da76294a414fed6/docs/public/home/helios_icon_white.png)
 
 ## Overview
 
 Helios is an open-source platform designed to simplify the visualization and analysis of real-time event streams by exposing data for SQL querying. Our [automated deployment process](https://github.com/helios-pipeline/deploy) and intuitive interface allow teams to query and gain insights from their existing event streams.
 
-To learn more about the Helios platform, including instructions on how to get started, visit our [website](https://helios.github.io/).
+To learn more about the Helios platform, visit our [website](https://helios-platform.github.io/) and [case study](https://helios-platform.github.io/introduction).
+
+To get started deploying Helios, visit our [instructions here.](https://github.com/helios-platform/deploy)
 
 ## The Team
 
