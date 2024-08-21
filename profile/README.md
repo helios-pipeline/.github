@@ -1,4 +1,6 @@
-![helios_banner](https://github.com/helios-platform/helios-platform.github.io/blob/25834176b8c82284024428b19c898f5e82623fae/docs/public/readme-logo-xs.png)
+<p align="center">
+  <img src="https://github.com/helios-platform/helios-platform.github.io/blob/25834176b8c82284024428b19c898f5e82623fae/docs/public/readme-logo-xs.png" alt="helios_banner">
+</p>
 
 ## Overview
 
